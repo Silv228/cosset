@@ -1,0 +1,19 @@
+.app-wrapper {
+  width: 100%;
+  display: grid;
+  grid-template-areas: 
+  "head head"
+  "nav cont";
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: 2fr 10fr;
+  grid-gap: 10px;
+  height: 90vh;
+}
+.app-content{
+  grid-area: cont;
+  background: #f3ccec;  
+}
+
+
+
+

@@ -1,0 +1,10 @@
+.content{
+  background: #f3ccec;  
+}
+.new_post{
+  display: block;
+  background: #f1e5ef;
+  outline: 0px;
+  border: 1px solid pink;
+  resize: none;
+}

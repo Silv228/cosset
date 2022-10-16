@@ -1,0 +1,11 @@
+.header {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  background: #C987FF;
+  grid-area: head;
+}
+
+.logo {
+  height: 55px;
+}
